@@ -1,0 +1,6 @@
+{
+  "name": "talk",
+  "version": "0.3.3",
+  "description": "Reads Claude's whole reply aloud with Kokoro; band above the prompt has Pause, Replay and a speed bar",
+  "types": "./types/index.d.ts"
+}

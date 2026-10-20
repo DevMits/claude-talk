@@ -1,0 +1,6 @@
+{
+  "name": "claude-talk",
+  "owner": { "name": "DevMits" },
+  "description": "talk: Claude Code mod that reads replies aloud with Kokoro.",
+  "plugins": [{ "name": "talk", "source": "./" }]
+}
